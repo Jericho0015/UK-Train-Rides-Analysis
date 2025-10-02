@@ -1,6 +1,6 @@
 # 🚆 UK Train Rides Analysis (Power BI Dashboard)
 
-![Dashboard Preview](images/Dashboard_Preview.png)  
+![Dashboard Preview](https://github.com/Jericho0015/UK-Train-Rides-Analysis/blob/main/Dashboard%20Preview/Dashboard%20Preview.png)  
 *(UK Train Routes Analysis – Power BI Dashboard)*  
 
 ---
@@ -46,8 +46,6 @@ The goal was to build **interactive dashboards** in Power BI that help stakehold
 
 ---
 
----
-
 ## 🛠 Tools & Technologies  
 - **Power BI Desktop** → Data modeling, DAX measures, dashboards  
 - **CSV Dataset** → UK Train Rides (mock data, Jan–Apr 2024)  
@@ -57,7 +55,7 @@ The goal was to build **interactive dashboards** in Power BI that help stakehold
 
 ## 📊 Dataset Details  
 
-- **Source:** Maven Analytics (via Tableau Public)  
+- **Source:** Maven Analytics
 - **Format:** CSV  
 - **# Records:** 31,653  
 - **# Fields:** 18  
